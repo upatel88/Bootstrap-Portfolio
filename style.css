@@ -1,0 +1,45 @@
+body{
+	font-family: Raleway; 
+}
+.container{
+
+
+}
+.page-header {
+	margin-top: 0;
+}
+
+.panel-body {
+	padding-top:0;
+	font-size: 18px;
+}
+
+.auth-img {
+	float: left;
+	padding-right: 10px;
+}
+
+
+
+
+}
+
+.clearFix {
+	width:50px;
+}
+
+#footer{
+	/*position: fixed;*/
+	background-color: #222222;
+	width: auto;
+	color:#fff;
+	font-size: 12px; 
+	padding: 20px 0;
+	text-align: center;
+	margin-top:120px;
+}
+
+#social {
+	list-style: none;
+}
+
